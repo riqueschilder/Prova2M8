@@ -16,3 +16,8 @@ Dependências de Voz O código usa a biblioteca pyttsx3 para a síntese de voz. 
 Interface Gráfica O código utiliza a biblioteca Gradio para criar uma interface simples. A interface permite a entrada de áudio ou texto e exibe a saída traduzida em tempo real.
 
 Como Executar Execute o código e a interface gráfica será lançada automaticamente. Você pode interagir com ela fornecendo áudio ou texto e observar a resposta traduzida.
+
+
+https://github.com/riqueschilder/Prova2M8/assets/99187952/3eef06dd-fdb1-4473-9773-e9222362b2aa
+
+não consegui fazer o audio do pysttx3 sair no video, mas ele fala...
